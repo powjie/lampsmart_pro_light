@@ -129,5 +129,5 @@ namespace esphome
 
   } // namespace lampsmartpro
 } // namespace esphome
-
+# Fix WiFi.h include typo
 #endif
