@@ -6,7 +6,7 @@
 
 #include <esp_gap_ble_api.h>
 #include <esp_gatts_api.h>
-
+#include "Arduino.h"
 #include <WiFi.h>
 
 
